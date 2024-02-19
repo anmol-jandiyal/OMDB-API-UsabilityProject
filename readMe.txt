@@ -12,3 +12,5 @@ In order to integrate OMDB API to your project, follow the following steps-
 eg:        fetch(http://www.omdbapi.com/?apikey=[yourkey]&t=[movie title]) 
 
 Once you get the data you can use that as per your requirement in the project
+
+checkout the project at : https://anmol-jandiyal.github.io/OMDB-API-UsabilityProject/
